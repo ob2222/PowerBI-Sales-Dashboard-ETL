@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 This project showcases an end-to-end data analysis workflow, from extracting and cleaning messy raw data to building a relational data model and creating an interactive Executive Dashboard in Power BI. The goal of the dashboard is to provide business owners with a clear view of revenue trends, product performance, and sales distribution.
 
+![Dashboard Preview](dashboard_preview.png)
 
 ## 🛠 Tools & Technologies
 - **Microsoft Power BI** (Data Visualization)
